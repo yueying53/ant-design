@@ -232,7 +232,7 @@
     "http-server": "^14.0.0",
     "husky": "^8.0.1",
     "identity-obj-proxy": "^3.0.0",
-    "immer": "^9.0.1",
+    "immer": "9.0.6",
     "immutability-helper": "^3.0.0",
     "increase-memory-limit": "^1.0.7",
     "inquirer": "^9.1.2",
